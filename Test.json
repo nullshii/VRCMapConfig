@@ -1,3 +1,22 @@
 {
-    "author_id": "usr_772cb374-4769-40a7-a1b5-b53c8b188f49"
+    "data": [
+        {
+            "id": "usr_772cb374-4769-40a7-a1b5-b53c8b188f49",
+            "roles": [
+                "creator"
+            ]
+        },
+        {
+            "id": "1",
+            "roles": [
+                "creator"
+            ]
+        },
+        {
+            "id": "2",
+            "roles": [
+                "tester"
+            ]
+        }
+    ]
 }
